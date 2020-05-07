@@ -1,21 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2020/05/01/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+    <title>机甲概念设计解析 读书笔记</title>
+    <url>/2020/05/07/1-mech-design/</url>
+    <content><![CDATA[<img src="images/001_mech_design.jpg" width = "300" height = "400" alt = "机甲概念设计解析">
 
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
 
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+<h2 id="机甲结构"><a href="#机甲结构" class="headerlink" title="机甲结构"></a>机甲结构</h2><h4 id="骨架"><a href="#骨架" class="headerlink" title="骨架"></a>骨架</h4><pre><code>- 内部骨骼
+- 外部装甲</code></pre><h4 id="关节"><a href="#关节" class="headerlink" title="关节"></a>关节</h4><pre><code>- 仿生人工肌肉传动
+- 球形关节
+- 齿轮传动</code></pre><h4 id="移动"><a href="#移动" class="headerlink" title="移动"></a>移动</h4><pre><code>- 机械腿；载具车轮（陆地）
+- 助推螺旋浆；喷水动力装置 （水下）
+- 喷气发动机；反重力舵；火箭喷射器 （飞行）
+- 粒子喷射引擎；太阳帆；异次元跳跃启动器</code></pre><h4 id="弹仓"><a href="#弹仓" class="headerlink" title="弹仓"></a>弹仓</h4><pre><code>- 外挂弹仓
+- 内置弹夹
+- 能源仓 （能源武器）</code></pre><h4 id="引擎"><a href="#引擎" class="headerlink" title="引擎"></a>引擎</h4><pre><code>- 散热，排气
+    - 进气道，百叶窗，风扇，排气孔
+- 能动力
+    - 电动机，蒸汽机，涡轮喷气发动机，活塞内燃机，核裂变反应堆，太阳能</code></pre><h4 id="驾驶舱"><a href="#驾驶舱" class="headerlink" title="驾驶舱"></a>驾驶舱</h4><h4 id="逃生系统"><a href="#逃生系统" class="headerlink" title="逃生系统"></a>逃生系统</h4><pre><code>- 弹射
+- 自曝</code></pre><h4 id="势态感知系统"><a href="#势态感知系统" class="headerlink" title="势态感知系统"></a>势态感知系统</h4><pre><code>- 摄像头
+- 热成像红外线夜视仪
+- 激光扫描仪
+- 无线电台
+- 雷达
+- 声纳
+- GPS</code></pre><h4 id="外挂设备"><a href="#外挂设备" class="headerlink" title="外挂设备"></a>外挂设备</h4><pre><code>- 附加重装甲
+- 外抛推进器
+- 盾牌
+- 火箭炮
+- 光束武器</code></pre><h4 id="武器"><a href="#武器" class="headerlink" title="武器"></a>武器</h4><pre><code>- 火炮武器
+- 飞弹武器
+- 能量武器
+- 格斗武器
+- 魔法武器</code></pre><hr>
 ]]></content>
+      <categories>
+        <category>book-notes</category>
+      </categories>
+      <tags>
+        <tag>mech</tag>
+      </tags>
   </entry>
 </search>
