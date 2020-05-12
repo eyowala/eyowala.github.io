@@ -3,7 +3,7 @@
   <entry>
     <title>Henri Dutilleux 亨利·迪蒂耶 论文笔记</title>
     <url>/2020/05/11/henriDutilleux-notes/</url>
-    <content><![CDATA[<img src="images/002_henri-dutilleux.jpg" width = "300" height = "400" alt = "henri dutilleux">
+    <content><![CDATA[<img src="https://i.loli.net/2020/05/12/AN7rVcjysfk4itz.jpg" width = "300" height = "400" alt = "henri dutilleux">
 
 <h3 id="1-亨利·迪蒂耶的管弦乐创作与风格演变"><a href="#1-亨利·迪蒂耶的管弦乐创作与风格演变" class="headerlink" title="1. 亨利·迪蒂耶的管弦乐创作与风格演变"></a>1. 亨利·迪蒂耶的管弦乐创作与风格演变</h3><p><em>王颖，第四卷 第一期， 临沂大学学报2018年2月</em></p>
 <h4 id="以时间为脉络将Dutilleux的管弦乐创作分为三个阶段："><a href="#以时间为脉络将Dutilleux的管弦乐创作分为三个阶段：" class="headerlink" title="以时间为脉络将Dutilleux的管弦乐创作分为三个阶段："></a>以时间为脉络将Dutilleux的管弦乐创作分为三个阶段：</h4><ul>
@@ -23,6 +23,8 @@
 《遥远的世界》(Tout un Monde Lointain)</code></pre><blockquote>
 <p>结构规模由“大型”逐渐转为自然流畅、边界模糊、精 美细致的形态;作曲家的关注由结构转移至发展手法和音色织体上。 </p>
 </blockquote>
+<a id="more"></a>
+
 <h4 id="中期："><a href="#中期：" class="headerlink" title="中期："></a>中期：</h4><pre><code>《音色、空间、运动 - 星夜》(Timbres,Espace,Movement) 管弦乐作品注重选择、安排乐器等方面，从而实现他在音色、空间上的设计与构想。 这首作品的 创作灵感来自梵高的画作《星夜》。 作曲家省略了小提琴组和中提琴组，营造出夜空与大地 之间的空旷感。 
 《梦之树》(L’Arbre des songes小提琴协奏曲
 《神秘的瞬间》(Mystère de l’instant) 
@@ -65,7 +67,7 @@
   <entry>
     <title>机甲概念设计解析 读书笔记</title>
     <url>/2020/05/07/mech-design/</url>
-    <content><![CDATA[<img src="images/001_mech_design.jpg" width = "300" height = "400" alt = "机甲概念设计解析">
+    <content><![CDATA[<img src="https://i.loli.net/2020/05/12/NlUF8omTC9LbR7q.jpg" width = "300" height = "400" alt = "机甲概念设计解析">
 
 
 <h2 id="机甲结构"><a href="#机甲结构" class="headerlink" title="机甲结构"></a>机甲结构</h2><h4 id="骨架"><a href="#骨架" class="headerlink" title="骨架"></a>骨架</h4><pre><code>- 内部骨骼
@@ -74,7 +76,9 @@
 - 齿轮传动</code></pre><h4 id="移动"><a href="#移动" class="headerlink" title="移动"></a>移动</h4><pre><code>- 机械腿；载具车轮（陆地）
 - 助推螺旋浆；喷水动力装置 （水下）
 - 喷气发动机；反重力舵；火箭喷射器 （飞行）
-- 粒子喷射引擎；太阳帆；异次元跳跃启动器</code></pre><h4 id="弹仓"><a href="#弹仓" class="headerlink" title="弹仓"></a>弹仓</h4><pre><code>- 外挂弹仓
+- 粒子喷射引擎；太阳帆；异次元跳跃启动器</code></pre><a id="more"></a>
+
+<h4 id="弹仓"><a href="#弹仓" class="headerlink" title="弹仓"></a>弹仓</h4><pre><code>- 外挂弹仓
 - 内置弹夹
 - 能源仓 （能源武器）</code></pre><h4 id="引擎"><a href="#引擎" class="headerlink" title="引擎"></a>引擎</h4><pre><code>- 散热，排气
     - 进气道，百叶窗，风扇，排气孔
@@ -142,7 +146,6 @@
 <blockquote>
 <p>notetaker : 赵梨</p>
 </blockquote>
-<a id="more"></a>
 ]]></content>
       <categories>
         <category>book-notes</category>
