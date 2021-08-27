@@ -1,45 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>胃肠镜记录</title>
-    <url>/2021/01/31/gastroscope/</url>
-    <content><![CDATA[<p>肚子不舒服了一星期，医生要求做了一下胃肠镜检查。<br>从前都是听说各种不舒服，感觉还有点害怕。<br>今天在上海仁爱医院第一次做胃肠镜检查，记录一下过程。</p>
+    <title>MacMiniMountedOnDesk</title>
+    <url>/2021/08/27/MacMiniMountedOnDesk/</url>
+    <content><![CDATA[<p>Mac mini 虽然小巧，但感觉放在桌上还是占地方。所以做一个能安放在桌面下的支架来让桌子看上去清爽一点。记录一下制作过程。</p>
 <a id="more"></a>
 
-<h3 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h3><ul>
-<li>做检查前一天只能吃一些易消化食物，譬如面，面包，白粥。提早吃晚饭。我当天只吃了4片面包。</li>
-<li>吃泻药。我吃的是复方匹克硫酸钠颗粒。</li>
-<li>一种冲剂，很酸，但味道不错。大约加500毫升的水，溶解喝下。有涨腹感。需要另喝1-2升水帮助清肠。</li>
-<li>2包，分次喝下。因为是预约了早上8点半做，要求前晚7-8点喝第一次，明早4点喝第二次。</li>
-<li>护士嘱咐喝完需要不停走动，稍微揉肚帮助肠胃蠕动。有利于排便。</li>
-<li>我喝完第一包等了3小时都没有排便感觉。随后睡下。</li>
-<li>第二包有了排便感觉，发觉躺下更有利于制造排便。</li>
-<li>需要多次排泄，排到没有渣渣只有清液。由于我水喝少了，没有完全排出清水。只是排出黄色液体。</li>
-<li>在检查前3小时前不能喝水，6小时前不能吃任何东西。</li>
+<h4 id="尺寸"><a href="#尺寸" class="headerlink" title="尺寸"></a>尺寸</h4><p>先量一下 Mac mini 的尺寸，当然网上查一下更快。<br><br>量下来是长宽是197mm， 高36mm。做的支撑下摆架需要能接触到Mac mini底下那个圆形底座。高度的话只要稍微流出一点空间，方便放上支架。<br></p>
+<h4 id="建模"><a href="#建模" class="headerlink" title="建模"></a>建模</h4><p>建模因为对尺寸有具体要求，所以使用fusion360做的。<br><br>镶钉在桌子的A部分长30mm,放Mac mini的B部分长50mm, 高度50mm, 整体宽度40mm, 支架整体厚度8mm， 除了A部分的厚度是6mm。挖了眼动给螺丝钉，眼洞内预留3mm给螺帽。<br>B部分挖半椭圆，一是方便拧螺丝钉，二是方便打印，可以不加支撑，节省材料。<br><img src="https://i.loli.net/2021/08/27/jLeQntmbPOEYgFB.png" alt="modeling 1.png"><br><img src="https://i.loli.net/2021/08/27/AwBKR2xMY7CXvNJ.png" alt="modeling 2.png"></p>
+<h4 id="打印"><a href="#打印" class="headerlink" title="打印"></a>打印</h4><ul>
+<li>打印材料： PLA</li>
+<li>单个打印耗材：41g</li>
+<li>单个打印时间：2小时9分钟</li>
+<li>切片软件：Ultimaker Cura 4.8</li>
+<li>打印机：Anycubic mega X</li>
 </ul>
-<p>泻药<br><img src="https://i.loli.net/2021/01/31/jklWbZdzDP2MFyu.jpg" width="125" height="200" text-align="left" alt="picosulfate_f"><img src="https://i.loli.net/2021/01/31/Uz3KaCcIsiYPJjf.jpg" width="125" height="200" alt="picosulfate_b"></p>
-<h3 id="检查过程"><a href="#检查过程" class="headerlink" title="检查过程"></a>检查过程</h3><ul>
-<li>到医院先做一下心电图</li>
-<li>护士给了一小杯白色液体喝下，具体名字和作用不明。</li>
-<li>如果有便意这时候也可以去上厕所。</li>
-<li>进房间在移动病床侧卧躺下，护士给你下半身盖条毯子，让你自行腿下裤子方便医生探菊。</li>
-<li>护士给你输液，这时候还是清醒状态，可以玩下手机。</li>
-<li>推进检查室，护士帮你调整躺下姿势，通上氧气。麻醉师给我注射静脉全身麻药，可能一分钟不到我就毫无意识了。</li>
-<li>差不多半小时后苏醒，但还没有意识。</li>
-</ul>
-<h3 id="检查过后"><a href="#检查过后" class="headerlink" title="检查过后"></a>检查过后</h3><ul>
-<li>有意识后头晕，坐了差不多15分钟后稍微缓解。</li>
-<li>由于割了胃上和肠道的息肉，麻药过后肚子里有绞痛感。</li>
-<li>4小时内禁水，6小时内禁食。</li>
-<li>2天只能和米汤和水，后面3天吃半流质。</li>
-</ul>
-<h3 id="检查报告"><a href="#检查报告" class="headerlink" title="检查报告"></a>检查报告</h3><ul>
-<li>食管连接胃处有小糜烂，胃酸倒灌造成。可能由于我长期临睡前喜欢吃东西导致。</li>
-<li>胃底息肉切除。</li>
-<li>直肠内息肉切除。</li>
-<li>肛肠内发现小痔疮，不用处理。</li>
-</ul>
-<p>检查报告图片<br><img src="https://i.loli.net/2021/01/31/CmAa8gN1ysuMRIL.jpg" width="300" height="400" alt="gastroscope"><br><img src="https://i.loli.net/2021/01/31/Tz3w4FoRfQt5leS.jpg" width="300" height="400" alt="colonoscope"></p>
+<p>麻烦的点事那个眼洞，打印完了后需要后期用工具把支撑拿掉，由于比较小，位置又不方便施展工具，有点费事，不过还是清理出来。<br><img src="https://i.loli.net/2021/08/27/2szDd9GwkTQepcy.jpg" alt="打印支撑1.jpeg"><br><img src="https://i.loli.net/2021/08/27/R2sZP3urG6hdJcD.jpg" alt="打印支撑2.jpeg"><br><img src="https://i.loli.net/2021/08/27/Fg6P4poeJU1kaLd.jpg" alt="打印支撑3.jpg"></p>
+<h4 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h4><p>决定安装的方向后量一下安装的位置。固定一个后拿Mac mini摆放试试位置，再固定另一个。三点支架固定，中心不要在中线。<br><br>安装好后用胶带包裹。增加阻尼防止Mac mini滑落；还可以保护Mac mini外壳，防止刮伤机器表面。<br><img src="https://i.loli.net/2021/08/27/Nfmsy7oUGFtXv4n.jpg" alt="装上桌子.jpg"><br><img src="https://i.loli.net/2021/08/27/PaXBxAErTd9Dehf.jpg" alt="贴上胶带.jpg"><br><img src="https://i.loli.net/2021/08/27/oNHkp1K7exbC8yq.jpg" alt="3个支撑.jpg"><br><img src="https://i.loli.net/2021/08/27/jlGXEn3vWuNDgRT.jpg" alt="放上mini1.jpg"><br><img src="https://i.loli.net/2021/08/27/TFqS2XEubH5jUos.jpg" alt="放上mini2.jpg"></p>
+<h4 id="效果"><a href="#效果" class="headerlink" title="效果"></a>效果</h4><p>我把插槽口放在了右侧，方便我插拔线。<br><br>几乎看不到Mac mini，桌面就有更大的空间可以堆放杂物了。😊<br><img src="https://i.loli.net/2021/08/27/Eyi1BMaCDZG5AeO.jpg" alt="外观1.jpeg"><br><img src="https://i.loli.net/2021/08/27/Opn1h8fvF4jNGUe.jpg" alt="外观2.jpeg"><br><img src="https://i.loli.net/2021/08/27/CHyhBEQWZGVluiD.jpg" alt="桌面.jpeg"></p>
 <br>
 
 <hr>
@@ -48,10 +26,13 @@
 </blockquote>
 ]]></content>
       <categories>
-        <category>healthcare</category>
+        <category>3D printing</category>
       </categories>
       <tags>
-        <tag>liferecord</tag>
+        <tag>3D printing</tag>
+        <tag>FDM</tag>
+        <tag>anycubic mega X</tag>
+        <tag>Mac mini</tag>
       </tags>
   </entry>
   <entry>
@@ -139,23 +120,45 @@
       </tags>
   </entry>
   <entry>
-    <title>MacMiniMountedOnDesk</title>
-    <url>/2021/08/27/MacMiniMountedOnDesk/</url>
-    <content><![CDATA[<p>Mac mini 虽然小巧，但感觉放在桌上还是占地方。所以做一个能安放在桌面下的支架来让桌子看上去清爽一点。</p>
+    <title>胃肠镜记录</title>
+    <url>/2021/01/31/gastroscope/</url>
+    <content><![CDATA[<p>肚子不舒服了一星期，医生要求做了一下胃肠镜检查。<br>从前都是听说各种不舒服，感觉还有点害怕。<br>今天在上海仁爱医院第一次做胃肠镜检查，记录一下过程。</p>
 <a id="more"></a>
 
-<h4 id="尺寸"><a href="#尺寸" class="headerlink" title="尺寸"></a>尺寸</h4><p>先量一下 Mac mini 的尺寸，当然网上查一下更快。<br><br>量下来是长宽是197mm， 高36mm。做的支撑下摆架需要能接触到Mac mini底下那个圆形底座。高度的话之家稍微流出一点空间，方便放上支架。<br></p>
-<h4 id="建模"><a href="#建模" class="headerlink" title="建模"></a>建模</h4><p>建模因为对尺寸有具体要求，所以使用fusion360做的。<br><br>镶钉在桌子的A部分长30mm,放Mac mini的B部分长50mm, 高度50mm, 整体宽度40mm, 支架整体厚度8mm， 除了A部分的厚度是6mm。挖了眼动给螺丝钉，眼洞内预留3mm给螺帽。<br>B部分挖半椭圆，一是方便拧螺丝钉，二是方便打印，可以不加支撑，节省材料。<br><img src="https://i.loli.net/2021/08/27/jLeQntmbPOEYgFB.png" alt="modeling 1.png"><br><img src="https://i.loli.net/2021/08/27/AwBKR2xMY7CXvNJ.png" alt="modeling 2.png"></p>
-<h4 id="打印"><a href="#打印" class="headerlink" title="打印"></a>打印</h4><ul>
-<li>打印材料： PLA</li>
-<li>单个打印耗材：41g</li>
-<li>单个打印时间：2小时9分钟</li>
-<li>切片软件：Ultimaker Cura 4.8</li>
-<li>打印机：Anycubic mega X</li>
+<h3 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h3><ul>
+<li>做检查前一天只能吃一些易消化食物，譬如面，面包，白粥。提早吃晚饭。我当天只吃了4片面包。</li>
+<li>吃泻药。我吃的是复方匹克硫酸钠颗粒。</li>
+<li>一种冲剂，很酸，但味道不错。大约加500毫升的水，溶解喝下。有涨腹感。需要另喝1-2升水帮助清肠。</li>
+<li>2包，分次喝下。因为是预约了早上8点半做，要求前晚7-8点喝第一次，明早4点喝第二次。</li>
+<li>护士嘱咐喝完需要不停走动，稍微揉肚帮助肠胃蠕动。有利于排便。</li>
+<li>我喝完第一包等了3小时都没有排便感觉。随后睡下。</li>
+<li>第二包有了排便感觉，发觉躺下更有利于制造排便。</li>
+<li>需要多次排泄，排到没有渣渣只有清液。由于我水喝少了，没有完全排出清水。只是排出黄色液体。</li>
+<li>在检查前3小时前不能喝水，6小时前不能吃任何东西。</li>
 </ul>
-<p>麻烦的点事那个眼洞，打印完了后需要后期用工具把支撑拿掉，由于比较小，位置又不方便施展工具，有点费事，不过还是清理出来。<br><img src="https://i.loli.net/2021/08/27/2szDd9GwkTQepcy.jpg" alt="打印支撑1.jpeg"><br><img src="https://i.loli.net/2021/08/27/R2sZP3urG6hdJcD.jpg" alt="打印支撑2.jpeg"><br><img src="https://i.loli.net/2021/08/27/Fg6P4poeJU1kaLd.jpg" alt="打印支撑3.jpg"></p>
-<h4 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h4><p>决定安装的方向后量一下安装的位置。固定一个后拿Mac mini摆放试试位置，再固定另一个。三点支架固定，中心不要在中线。<br><br>安装好后用胶带包裹。增加阻尼防止Mac mini滑落；还可以保护Mac mini外壳，防止刮伤机器表面。<br><img src="https://i.loli.net/2021/08/27/Nfmsy7oUGFtXv4n.jpg" alt="装上桌子.jpg"><br><img src="https://i.loli.net/2021/08/27/PaXBxAErTd9Dehf.jpg" alt="贴上胶带.jpg"><br><img src="https://i.loli.net/2021/08/27/oNHkp1K7exbC8yq.jpg" alt="3个支撑.jpg"><br><img src="https://i.loli.net/2021/08/27/jlGXEn3vWuNDgRT.jpg" alt="放上mini1.jpg"><br><img src="https://i.loli.net/2021/08/27/TFqS2XEubH5jUos.jpg" alt="放上mini2.jpg"></p>
-<h4 id="效果"><a href="#效果" class="headerlink" title="效果"></a>效果</h4><p>我把插槽口放在了右侧，方便我插拔线。<br><br>几乎看不到Mac mini，桌面就有更大的空间可以堆放杂物了。😊<br><img src="https://i.loli.net/2021/08/27/Eyi1BMaCDZG5AeO.jpg" alt="外观1.jpeg"><br><img src="https://i.loli.net/2021/08/27/Opn1h8fvF4jNGUe.jpg" alt="外观2.jpeg"><br><img src="https://i.loli.net/2021/08/27/CHyhBEQWZGVluiD.jpg" alt="桌面.jpeg"></p>
+<p>泻药<br><img src="https://i.loli.net/2021/01/31/jklWbZdzDP2MFyu.jpg" width="125" height="200" text-align="left" alt="picosulfate_f"><img src="https://i.loli.net/2021/01/31/Uz3KaCcIsiYPJjf.jpg" width="125" height="200" alt="picosulfate_b"></p>
+<h3 id="检查过程"><a href="#检查过程" class="headerlink" title="检查过程"></a>检查过程</h3><ul>
+<li>到医院先做一下心电图</li>
+<li>护士给了一小杯白色液体喝下，具体名字和作用不明。</li>
+<li>如果有便意这时候也可以去上厕所。</li>
+<li>进房间在移动病床侧卧躺下，护士给你下半身盖条毯子，让你自行腿下裤子方便医生探菊。</li>
+<li>护士给你输液，这时候还是清醒状态，可以玩下手机。</li>
+<li>推进检查室，护士帮你调整躺下姿势，通上氧气。麻醉师给我注射静脉全身麻药，可能一分钟不到我就毫无意识了。</li>
+<li>差不多半小时后苏醒，但还没有意识。</li>
+</ul>
+<h3 id="检查过后"><a href="#检查过后" class="headerlink" title="检查过后"></a>检查过后</h3><ul>
+<li>有意识后头晕，坐了差不多15分钟后稍微缓解。</li>
+<li>由于割了胃上和肠道的息肉，麻药过后肚子里有绞痛感。</li>
+<li>4小时内禁水，6小时内禁食。</li>
+<li>2天只能和米汤和水，后面3天吃半流质。</li>
+</ul>
+<h3 id="检查报告"><a href="#检查报告" class="headerlink" title="检查报告"></a>检查报告</h3><ul>
+<li>食管连接胃处有小糜烂，胃酸倒灌造成。可能由于我长期临睡前喜欢吃东西导致。</li>
+<li>胃底息肉切除。</li>
+<li>直肠内息肉切除。</li>
+<li>肛肠内发现小痔疮，不用处理。</li>
+</ul>
+<p>检查报告图片<br><img src="https://i.loli.net/2021/01/31/CmAa8gN1ysuMRIL.jpg" width="300" height="400" alt="gastroscope"><br><img src="https://i.loli.net/2021/01/31/Tz3w4FoRfQt5leS.jpg" width="300" height="400" alt="colonoscope"></p>
 <br>
 
 <hr>
@@ -164,107 +167,16 @@
 </blockquote>
 ]]></content>
       <categories>
-        <category>3D printing</category>
+        <category>healthcare</category>
       </categories>
       <tags>
-        <tag>3D printing</tag>
-        <tag>FDM</tag>
-        <tag>anycubic mega X</tag>
-        <tag>Mac mini</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>机甲概念设计解析 读书笔记</title>
-    <url>/2020/05/07/mech-design/</url>
-    <content><![CDATA[<img src="https://i.loli.net/2020/05/12/NlUF8omTC9LbR7q.jpg" width="300" height="400" alt="机甲概念设计解析">
-
-<a id="more"></a>
-
-<h2 id="机甲结构"><a href="#机甲结构" class="headerlink" title="机甲结构"></a>机甲结构</h2><h4 id="骨架"><a href="#骨架" class="headerlink" title="骨架"></a>骨架</h4><pre><code>- 内部骨骼
-- 外部装甲</code></pre><h4 id="关节"><a href="#关节" class="headerlink" title="关节"></a>关节</h4><pre><code>- 仿生人工肌肉传动
-- 球形关节
-- 齿轮传动</code></pre><h4 id="移动"><a href="#移动" class="headerlink" title="移动"></a>移动</h4><pre><code>- 机械腿；载具车轮（陆地）
-- 助推螺旋浆；喷水动力装置 （水下）
-- 喷气发动机；反重力舵；火箭喷射器 （飞行）
-- 粒子喷射引擎；太阳帆；异次元跳跃启动器</code></pre><h4 id="弹仓"><a href="#弹仓" class="headerlink" title="弹仓"></a>弹仓</h4><pre><code>- 外挂弹仓
-- 内置弹夹
-- 能源仓 （能源武器）</code></pre><h4 id="引擎"><a href="#引擎" class="headerlink" title="引擎"></a>引擎</h4><pre><code>- 散热，排气
-    - 进气道，百叶窗，风扇，排气孔
-- 能动力
-    - 电动机，蒸汽机，涡轮喷气发动机，活塞内燃机，核裂变反应堆，太阳能</code></pre><h4 id="驾驶舱"><a href="#驾驶舱" class="headerlink" title="驾驶舱"></a>驾驶舱</h4><h4 id="逃生系统"><a href="#逃生系统" class="headerlink" title="逃生系统"></a>逃生系统</h4><pre><code>- 弹射
-- 自曝</code></pre><h4 id="势态感知系统"><a href="#势态感知系统" class="headerlink" title="势态感知系统"></a>势态感知系统</h4><pre><code>- 摄像头
-- 热成像红外线夜视仪
-- 激光扫描仪
-- 无线电台
-- 雷达
-- 声纳
-- GPS</code></pre><h4 id="外挂设备"><a href="#外挂设备" class="headerlink" title="外挂设备"></a>外挂设备</h4><pre><code>- 附加重装甲
-- 外抛推进器
-- 盾牌
-- 火箭炮
-- 光束武器</code></pre><h4 id="武器"><a href="#武器" class="headerlink" title="武器"></a>武器</h4><pre><code>- 火炮武器
-- 飞弹武器
-- 能量武器
-- 格斗武器
-- 魔法武器</code></pre><hr>
-<h2 id="机甲的分类"><a href="#机甲的分类" class="headerlink" title="机甲的分类"></a>机甲的分类</h2><table>
-<thead>
-<tr>
-<th>日系机甲</th>
-<th align="center">美系机甲</th>
-<th>俄系机甲</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>有明显头部</td>
-<td align="center">一般没有头部和手掌造型</td>
-<td>造型更粗旷硬核</td>
-</tr>
-<tr>
-<td>更拟人化</td>
-<td align="center">现实合理度高</td>
-<td>比较少有花哨的修饰</td>
-</tr>
-<tr>
-<td>苛刻的细节比例要求</td>
-<td align="center">自由度高</td>
-<td></td>
-</tr>
-<tr>
-<td>多超级系机甲</td>
-<td align="center">需要掌握更多工业化知识</td>
-<td></td>
-</tr>
-<tr>
-<td>外形更夸张</td>
-<td align="center"></td>
-<td></td>
-</tr>
-<tr>
-<td>战斗多依赖人类精神力</td>
-<td align="center">更多使用现实动力</td>
-<td></td>
-</tr>
-</tbody></table>
-<br>
-
-<hr>
-<blockquote>
-<p>notetaker : 赵梨</p>
-</blockquote>
-]]></content>
-      <categories>
-        <category>book-notes</category>
-      </categories>
-      <tags>
-        <tag>mech</tag>
-        <tag>zhaoli</tag>
+        <tag>liferecord</tag>
       </tags>
   </entry>
   <entry>
     <title>第一次粉刷墙经验总结</title>
     <url>/2021/08/13/firstWallPainting/</url>
-    <content><![CDATA[<p>帮同事涂个墙，想用喷枪试一下。感觉技术要求不是很高，也顺便很想试一下这个喷枪的涂枪效果。“教唆”同事买了喷枪，同事非常大方和贴心地准备了各个工具和材料，还请了我平时都没条件吃港餐。😊满足。<br><br>稍微总结了一下这次操作的经历以备来用。</p>
+    <content><![CDATA[<p>帮同事涂个墙，想用喷枪试一下。感觉技术要求不是很高，也顺便很想试一下这个喷枪的涂枪效果。“教唆”同事买了喷枪，同事非常大方和贴心地准备了各个工具和材料，还请了我平时都没条件吃的港餐。😊满足。<br><br>稍微总结了一下这次操作的经历以备来用。</p>
 <a id="more"></a>
 
 <h3 id="准备工具"><a href="#准备工具" class="headerlink" title="准备工具"></a>准备工具</h3><blockquote>
@@ -375,6 +287,94 @@
       </categories>
       <tags>
         <tag>lifereocrd</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>机甲概念设计解析 读书笔记</title>
+    <url>/2020/05/07/mech-design/</url>
+    <content><![CDATA[<img src="https://i.loli.net/2020/05/12/NlUF8omTC9LbR7q.jpg" width="300" height="400" alt="机甲概念设计解析">
+
+<a id="more"></a>
+
+<h2 id="机甲结构"><a href="#机甲结构" class="headerlink" title="机甲结构"></a>机甲结构</h2><h4 id="骨架"><a href="#骨架" class="headerlink" title="骨架"></a>骨架</h4><pre><code>- 内部骨骼
+- 外部装甲</code></pre><h4 id="关节"><a href="#关节" class="headerlink" title="关节"></a>关节</h4><pre><code>- 仿生人工肌肉传动
+- 球形关节
+- 齿轮传动</code></pre><h4 id="移动"><a href="#移动" class="headerlink" title="移动"></a>移动</h4><pre><code>- 机械腿；载具车轮（陆地）
+- 助推螺旋浆；喷水动力装置 （水下）
+- 喷气发动机；反重力舵；火箭喷射器 （飞行）
+- 粒子喷射引擎；太阳帆；异次元跳跃启动器</code></pre><h4 id="弹仓"><a href="#弹仓" class="headerlink" title="弹仓"></a>弹仓</h4><pre><code>- 外挂弹仓
+- 内置弹夹
+- 能源仓 （能源武器）</code></pre><h4 id="引擎"><a href="#引擎" class="headerlink" title="引擎"></a>引擎</h4><pre><code>- 散热，排气
+    - 进气道，百叶窗，风扇，排气孔
+- 能动力
+    - 电动机，蒸汽机，涡轮喷气发动机，活塞内燃机，核裂变反应堆，太阳能</code></pre><h4 id="驾驶舱"><a href="#驾驶舱" class="headerlink" title="驾驶舱"></a>驾驶舱</h4><h4 id="逃生系统"><a href="#逃生系统" class="headerlink" title="逃生系统"></a>逃生系统</h4><pre><code>- 弹射
+- 自曝</code></pre><h4 id="势态感知系统"><a href="#势态感知系统" class="headerlink" title="势态感知系统"></a>势态感知系统</h4><pre><code>- 摄像头
+- 热成像红外线夜视仪
+- 激光扫描仪
+- 无线电台
+- 雷达
+- 声纳
+- GPS</code></pre><h4 id="外挂设备"><a href="#外挂设备" class="headerlink" title="外挂设备"></a>外挂设备</h4><pre><code>- 附加重装甲
+- 外抛推进器
+- 盾牌
+- 火箭炮
+- 光束武器</code></pre><h4 id="武器"><a href="#武器" class="headerlink" title="武器"></a>武器</h4><pre><code>- 火炮武器
+- 飞弹武器
+- 能量武器
+- 格斗武器
+- 魔法武器</code></pre><hr>
+<h2 id="机甲的分类"><a href="#机甲的分类" class="headerlink" title="机甲的分类"></a>机甲的分类</h2><table>
+<thead>
+<tr>
+<th>日系机甲</th>
+<th align="center">美系机甲</th>
+<th>俄系机甲</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>有明显头部</td>
+<td align="center">一般没有头部和手掌造型</td>
+<td>造型更粗旷硬核</td>
+</tr>
+<tr>
+<td>更拟人化</td>
+<td align="center">现实合理度高</td>
+<td>比较少有花哨的修饰</td>
+</tr>
+<tr>
+<td>苛刻的细节比例要求</td>
+<td align="center">自由度高</td>
+<td></td>
+</tr>
+<tr>
+<td>多超级系机甲</td>
+<td align="center">需要掌握更多工业化知识</td>
+<td></td>
+</tr>
+<tr>
+<td>外形更夸张</td>
+<td align="center"></td>
+<td></td>
+</tr>
+<tr>
+<td>战斗多依赖人类精神力</td>
+<td align="center">更多使用现实动力</td>
+<td></td>
+</tr>
+</tbody></table>
+<br>
+
+<hr>
+<blockquote>
+<p>notetaker : 赵梨</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>book-notes</category>
+      </categories>
+      <tags>
+        <tag>mech</tag>
+        <tag>zhaoli</tag>
       </tags>
   </entry>
 </search>
